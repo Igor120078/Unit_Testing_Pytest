@@ -1,0 +1,14 @@
+.git/
+.idea/
+.venv/
+.vscode/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/.DS_Store
+.coverage
+htmlcov/
+**/*.log
+**/service.py
+**/test_with_ai.md
+**/test_service.py
